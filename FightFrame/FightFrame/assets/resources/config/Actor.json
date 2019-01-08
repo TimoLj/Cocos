@@ -1,0 +1,20 @@
+{
+  "10001": {
+    "ID": 10001,
+    "Name": "玩家单位1",
+    "Icon": null,
+    "AttackType": 1,
+    "Atk": 10,
+    "Def": 0,
+    "Hp": 100,
+    "Crit": 0,
+    "CritDamage": 100,
+    "MoveType": 1,
+    "MoveSpeed": 1,
+    "AtkMax": 300,
+    "AtkMin": 1,
+    "Skills": [],
+    "Model": "prefab/unit/robots/pfbGunner",
+    "Scale": 0.5
+  }
+}
