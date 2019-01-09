@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "walkBoy_shadow",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.19047619047619047,
+  "sample": 21,
+  "speed": 0.4,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b5ed7109-b2e3-4ca2-9dce-e6fcae3ea250"
+            }
+          },
+          {
+            "frame": 0.047619047619047616,
+            "value": {
+              "__uuid__": "0263b1dc-8db9-4703-8aa4-e7f2322c2149"
+            }
+          },
+          {
+            "frame": 0.09523809523809523,
+            "value": {
+              "__uuid__": "076b73b2-a5ae-4986-b355-b0202820776e"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "831ddcce-6415-4fec-bd2d-1173e2f3435d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

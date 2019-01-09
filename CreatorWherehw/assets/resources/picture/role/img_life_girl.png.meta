@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e9e5dcd8-64a8-4a57-9ac7-97f8d80c17e7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "img_life_girl": {
+      "ver": "1.0.3",
+      "uuid": "7c422348-9f06-4980-9706-49ff221be808",
+      "rawTextureUuid": "e9e5dcd8-64a8-4a57-9ac7-97f8d80c17e7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 28,
+      "height": 42,
+      "rawWidth": 28,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

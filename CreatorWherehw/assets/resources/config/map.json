@@ -1,0 +1,54 @@
+{
+    "timeLine": 0,
+    "actorPos": {
+        "x": 464,
+        "y": 528
+    },
+    "fire": {
+        "lvl": 2,
+        "fireTime": 60
+    },
+    "goods": [
+        {
+            "pos": {
+                "x": 0,
+                "y": 0
+            },
+            "time": 0
+        }
+    ],
+    "trap": [
+        {
+            "pos": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "monster": [
+        {
+            "pos": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "signMe": [
+        {
+            "pos": {
+                "x": 0,
+                "y": 0
+            },
+            "isGood": 1
+        }
+    ],
+    "signOther": [
+        {
+            "pos": {
+                "x": 0,
+                "y": 0
+            },
+            "isGood": 1
+        }
+    ]
+}

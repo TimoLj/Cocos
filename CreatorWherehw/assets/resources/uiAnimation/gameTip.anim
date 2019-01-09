@@ -1,0 +1,133 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gameTip",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1.5,
+  "wrapMode": "0",
+  "curveData": {
+    "paths": {
+      "sprTitle": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -38,
+                494
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -25,
+                404
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 9
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "nodForm": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                63,
+                93
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -15
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "btnCancle": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -387
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -456
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "UIMask": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 125
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

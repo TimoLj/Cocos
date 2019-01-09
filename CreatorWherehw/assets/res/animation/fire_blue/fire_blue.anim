@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fire_blue",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.23809523809523808,
+  "sample": 21,
+  "speed": 0.4,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "36bb81a4-8b6a-43fd-bfd5-7a15b4177480"
+            }
+          },
+          {
+            "frame": 0.047619047619047616,
+            "value": {
+              "__uuid__": "5e9ab052-77dd-4343-861b-b554614a29d4"
+            }
+          },
+          {
+            "frame": 0.09523809523809523,
+            "value": {
+              "__uuid__": "8bea66f3-8377-4f21-9551-ef50ab45b393"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "e851fecc-868b-439d-a24b-ef40909d1548"
+            }
+          },
+          {
+            "frame": 0.19047619047619047,
+            "value": {
+              "__uuid__": "50f1259c-8786-421a-9e1a-bfbe0e9ad6ac"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fire_red",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.2857142857142857,
+  "sample": 21,
+  "speed": 0.4,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ae202dc1-f6dc-4d82-b220-5d7590c6e266"
+            }
+          },
+          {
+            "frame": 0.047619047619047616,
+            "value": {
+              "__uuid__": "7390a1fe-ca9b-4a1a-9005-a27d09140e95"
+            }
+          },
+          {
+            "frame": 0.09523809523809523,
+            "value": {
+              "__uuid__": "2d23dc6e-2c4a-4ec7-b5e2-1ad5f03865a4"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "3fa5a5e3-2dc4-4c6e-a23c-15a6c7932363"
+            }
+          },
+          {
+            "frame": 0.19047619047619047,
+            "value": {
+              "__uuid__": "37367ef8-e835-4f62-8559-19b5a86a86a7"
+            }
+          },
+          {
+            "frame": 0.23809523809523808,
+            "value": {
+              "__uuid__": "ae202dc1-f6dc-4d82-b220-5d7590c6e266"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

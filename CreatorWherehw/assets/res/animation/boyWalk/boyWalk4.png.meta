@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7e421f66-2ef8-460c-84dd-703e8526a1ba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "boyWalk4": {
+      "ver": "1.0.3",
+      "uuid": "10bcaafa-ccb8-4e07-9591-24438649b837",
+      "rawTextureUuid": "7e421f66-2ef8-460c-84dd-703e8526a1ba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 11.5,
+      "trimX": 23,
+      "trimY": 6,
+      "width": 95,
+      "height": 149,
+      "rawWidth": 144,
+      "rawHeight": 184,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

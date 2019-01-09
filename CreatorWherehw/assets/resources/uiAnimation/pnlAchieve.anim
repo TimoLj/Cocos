@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pnlAchieve",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "scvContain/view": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.8
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "btnBack": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 619
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 556
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

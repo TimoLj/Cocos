@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "walkGirl1_shadow",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 21,
+  "speed": 0.4,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.8095238095238095,
+            "value": {
+              "__uuid__": "c49dad4e-0c91-47b0-a857-f737897a8449"
+            }
+          },
+          {
+            "frame": 0.8571428571428571,
+            "value": {
+              "__uuid__": "bc6d5635-0a23-4f2a-bf1e-798a90fcb459"
+            }
+          },
+          {
+            "frame": 0.9047619047619048,
+            "value": {
+              "__uuid__": "6de13d66-11c7-4abd-991a-49554f8388c9"
+            }
+          },
+          {
+            "frame": 0.9523809523809523,
+            "value": {
+              "__uuid__": "bd919843-947d-430b-b097-5bd16269cb2d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

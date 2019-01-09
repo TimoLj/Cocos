@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "walkGirl_1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.19047619047619047,
+  "sample": 21,
+  "speed": 0.4,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f45eb71b-ab7b-4dca-bf76-f1c0bef5eb3f"
+            }
+          },
+          {
+            "frame": 0.047619047619047616,
+            "value": {
+              "__uuid__": "c8a266f3-a8eb-43f9-8256-7cf52f6dd496"
+            }
+          },
+          {
+            "frame": 0.09523809523809523,
+            "value": {
+              "__uuid__": "2c6bb2a2-55dc-448e-ad24-50d0d2b2b1eb"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "ee4379c3-6c04-4b37-8046-307d1dc84c1f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

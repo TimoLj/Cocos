@@ -1,0 +1,387 @@
+{
+  "1": {
+    "ID": 1,
+    "Time": 1,
+    "Pattern": 1,
+    "Pos": "14-8",
+    "ChipId": 1
+  },
+  "2": {
+    "ID": 2,
+    "Time": 1,
+    "Pattern": 1,
+    "Pos": "20-11",
+    "ChipId": 2
+  },
+  "3": {
+    "ID": 3,
+    "Time": 1,
+    "Pattern": 1,
+    "Pos": "5-5",
+    "ChipId": 3
+  },
+  "4": {
+    "ID": 4,
+    "Time": 1,
+    "Pattern": 1,
+    "Pos": "19-17",
+    "ChipId": 4
+  },
+  "5": {
+    "ID": 5,
+    "Time": 1,
+    "Pattern": 1,
+    "Pos": "25-12",
+    "ChipId": 5
+  },
+  "6": {
+    "ID": 6,
+    "Time": 1,
+    "Pattern": 1,
+    "Pos": "1-19",
+    "ChipId": 6
+  },
+  "7": {
+    "ID": 7,
+    "Time": 1,
+    "Pattern": 1,
+    "Pos": "17-27",
+    "ChipId": 7
+  },
+  "8": {
+    "ID": 8,
+    "Time": 1,
+    "Pattern": 0,
+    "Pos": "12-13",
+    "ChipId": 1
+  },
+  "9": {
+    "ID": 9,
+    "Time": 1,
+    "Pattern": 0,
+    "Pos": "18-9",
+    "ChipId": 2
+  },
+  "10": {
+    "ID": 10,
+    "Time": 1,
+    "Pattern": 0,
+    "Pos": "23-5",
+    "ChipId": 3
+  },
+  "11": {
+    "ID": 11,
+    "Time": 1,
+    "Pattern": 0,
+    "Pos": "28-10",
+    "ChipId": 4
+  },
+  "12": {
+    "ID": 12,
+    "Time": 1,
+    "Pattern": 0,
+    "Pos": "21-19",
+    "ChipId": 5
+  },
+  "13": {
+    "ID": 13,
+    "Time": 1,
+    "Pattern": 0,
+    "Pos": "1-19",
+    "ChipId": 6
+  },
+  "14": {
+    "ID": 14,
+    "Time": 1,
+    "Pattern": 0,
+    "Pos": "3-28",
+    "ChipId": 7
+  },
+  "15": {
+    "ID": 15,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "16": {
+    "ID": 16,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "17": {
+    "ID": 17,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "18": {
+    "ID": 18,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "19": {
+    "ID": 19,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "20": {
+    "ID": 20,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "21": {
+    "ID": 21,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "22": {
+    "ID": 22,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "23": {
+    "ID": 23,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "24": {
+    "ID": 24,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "25": {
+    "ID": 25,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "26": {
+    "ID": 26,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "27": {
+    "ID": 27,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "28": {
+    "ID": 28,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "29": {
+    "ID": 29,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "30": {
+    "ID": 30,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "31": {
+    "ID": 31,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "32": {
+    "ID": 32,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "33": {
+    "ID": 33,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "34": {
+    "ID": 34,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "35": {
+    "ID": 35,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "36": {
+    "ID": 36,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "37": {
+    "ID": 37,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "38": {
+    "ID": 38,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "39": {
+    "ID": 39,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "40": {
+    "ID": 40,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "41": {
+    "ID": 41,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "42": {
+    "ID": 42,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "43": {
+    "ID": 43,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "44": {
+    "ID": 44,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "45": {
+    "ID": 45,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "46": {
+    "ID": 46,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "47": {
+    "ID": 47,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "48": {
+    "ID": 48,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "49": {
+    "ID": 49,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "50": {
+    "ID": 50,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "51": {
+    "ID": 51,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "52": {
+    "ID": 52,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "53": {
+    "ID": 53,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "54": {
+    "ID": 54,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  },
+  "55": {
+    "ID": 55,
+    "Time": null,
+    "Pattern": null,
+    "Pos": null,
+    "ChipId": null
+  }
+}

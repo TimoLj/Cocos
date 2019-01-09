@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "walkBoy",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.23809523809523808,
+  "sample": 21,
+  "speed": 0.4,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e31f9075-0b16-4134-b456-23cd40dfa871"
+            }
+          },
+          {
+            "frame": 0.047619047619047616,
+            "value": {
+              "__uuid__": "a00af6a1-339c-422e-aac9-1ff9855661b9"
+            }
+          },
+          {
+            "frame": 0.09523809523809523,
+            "value": {
+              "__uuid__": "1e31b542-8823-4019-b3c3-473bf35f71a5"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "10bcaafa-ccb8-4e07-9591-24438649b837"
+            }
+          },
+          {
+            "frame": 0.19047619047619047,
+            "value": {
+              "__uuid__": "e31f9075-0b16-4134-b456-23cd40dfa871"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

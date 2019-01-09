@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a126aade-56e6-46b3-a292-0be95a34b3a8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "girlWalk_2_1": {
+      "ver": "1.0.3",
+      "uuid": "19c6a2b0-9224-448c-9d83-6e9aeb91ac1f",
+      "rawTextureUuid": "a126aade-56e6-46b3-a292-0be95a34b3a8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 15,
+      "trimX": 22,
+      "trimY": 1,
+      "width": 101,
+      "height": 152,
+      "rawWidth": 144,
+      "rawHeight": 184,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
